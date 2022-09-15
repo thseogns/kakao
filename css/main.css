@@ -392,7 +392,7 @@ article .box {
   margin-top: -2px;
 }
 .login_popup {
-  display: ;
+  display: none;
   position: absolute;
   top: 50%;
   left: 50%;
