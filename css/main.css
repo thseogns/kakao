@@ -368,14 +368,15 @@ article .box {
 .banner {
 }
 .banner a {
-  padding: 0 10px 0 24px;
+  padding: 0 14px;
   display: block;
 }
 .banner img {
   width: 100%;
-  border-radius: 15px;
+  border-radius: 8px;
 }
 .login {
+  margin-bottom: 30px;
 }
 .login a {
   display: block;
@@ -391,7 +392,7 @@ article .box {
   margin-top: -2px;
 }
 .login_popup {
-  display: none;
+  display: ;
   position: absolute;
   top: 50%;
   left: 50%;
